@@ -17,8 +17,17 @@ header {
    /*CSS Smooth Scroll*/
 }
 
+.navbar-nav li {
+    padding-right: 2px;
+    margin-right: 20px;
+}
+
 .nav-link:hover {
     color: #000 !important;
+}
+
+.navbar-collapse {
+    background: rgb(156, 106, 33);
 }
 
 /*-------home-----*/
@@ -49,8 +58,34 @@ header {
 /*------About Section-------*/
 
 .heading-section h2{
-    text-transform: uppercase;
+    text-transform: capitalize;
     position: center;
     font-weight: bold;
 }
 
+.welcome {
+    border-top: 2px solid rgb(139, 70, 4);
+    width: 100%;
+    margin-top: 7px;
+    margin-bottom: 4px;           
+}
+
+.btn-about{
+    background-color: #030157!important;
+    color:#fff!important;
+    margin-right:5px;
+    margin-left:5px;
+    animation:skew 3s infinite;
+    animation-direction: normal;
+    transform: skew(20deg);
+    animation-direction: alternate;
+    padding:5px 17px;
+}
+@keyframes skew{
+    0%{
+        transform: skewX(20deg);
+    }
+    100%{
+        transform: skewX(-20deg);
+    }
+}
