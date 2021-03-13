@@ -46,10 +46,11 @@ header {
     margin-bottom: 20px;
 }
 
-/*------About-------*/
+/*------About Section-------*/
 
-.about-heading {
-    font-weight: 600;
-    font-size: 400%;
-    font-family: 'Acme', sans-serif;
+.heading-section h2{
+    text-transform: uppercase;
+    position: center;
+    font-weight: bold;
 }
+
