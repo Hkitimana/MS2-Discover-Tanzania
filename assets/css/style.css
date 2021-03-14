@@ -26,10 +26,6 @@ header {
     color: #000 !important;
 }
 
-.navbar-collapse {
-    background: rgb(156, 106, 33);
-}
-
 /*-------home-----*/
 
 .landing-text {
@@ -39,7 +35,7 @@ header {
 }
 
 .box {
-    background-image: url("../image/tanzania.jpg");
+    background-image: url("../images/tanzania.jpg");
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -101,15 +97,30 @@ header {
     }
 }
 
-.serengetiinfo {
+.attractions {
+    text-transform: capitalize;
+    position: center;
+    font-weight: bold;
+}
+
+.serengeti-info {
   height: 300px;
-  background: url("../images/serengeti.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  border-style: solid;
-  border-color: #ffffff;
+  background-image: url("../images/serengeti.jpg");
+}
+
+.ngorongoro-info {
+  height: 300px;
+  background-image: url("../images/serengeti.jpg");
+}
+
+.zanzibar-info {
+  height: 300px;
+  background-image: url("../images/serengeti.jpg");
+}
+
+.kilimanjaro-info {
+  height: 300px;
+  background-image: url("../images/serengeti.jpg");
 }
 
 /*-------- Code used to style popup is from Stack overflow ----------*/
