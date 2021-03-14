@@ -63,15 +63,26 @@ header {
     font-weight: bold;
 }
 
-.welcome {
+.welcome hr{
     border-top: 2px solid rgb(139, 70, 4);
     width: 100%;
     margin-top: 7px;
     margin-bottom: 4px;           
 }
 
-.btn-about{
-    background-color: #030157!important;
+.more {
+    border-bottom: 2px solid rgb(139, 70, 4);
+    width: 100%;
+    margin-top: 7px;
+    margin-bottom: 4px;
+}
+
+.fonticon {
+    font-size: 60px;
+    padding-bottom: 2px;
+}
+
+.btn-dark{
     color:#fff!important;
     margin-right:5px;
     margin-left:5px;
