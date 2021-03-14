@@ -110,42 +110,69 @@
           <div class="row textstyling">
               <h1>Attractions</h1>
             <div class="col-md col-lg-3 serengeti-info">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet ultrices risus.
-                      Nam odio metus.
-                  </p>
-                </div>
+                <button onclick="myFunction()"> Must see </button>
+               <div id="serengetilist"> Experience Serengeti.
+               </div>
             </div>
             <div class="col-md col-lg-3 ngorongoro-info">
-                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet ultrices risus.
-                      Nam odio metus.</p>
+                   <button onclick="myFunction()"> Must see </button>
+               <div id="ngorongorolist"> Experience Ngorongoro.
+               </div>
             </div>
             <div class="col-md-6 col-lg-3 zanzibar-info">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet ultrices risus.
-                      Nam odio metus.
-                  </p>
+                <button onclick="myFunction()"> Must see </button>
+               <div id="zanzibarlist"> Experience Zanzibar.
+               </div>
             </div>
             <div class="col-md-6 col-lg-3 kilimanjaro-info">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet ultrices risus.
-                      Nam odio metus.
-                  </p>
+                <button onclick="myFunction()"> Must see </button>
+               <div id="kilimanjarolist"> Experience Kilimanjaro.
+               </div>
             </div>
-          </div>
+        </div>
+
+<!-------- Map Section ------->
+
+    <div id="map"></div>
     </section>
-    <section id="informaon-for-tourists">
-        <h1>Information for tourists</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet ultrices risus.
-         Nam odio metus, euismod ac semper non, maximus vel metus. Donec eu velit in velit hendrerit mollis.
-          Vivamus tincidunt quam ut tellus fringilla, quis ultrices quam faucibus. Fusce hendrerit orci a tellus 
-          sollicitudin, vel rhoncus mauris blandit. Fusce non tortor nisi. Vestibulum ultricies scelerisque orci, 
-          et congue augue feugiat in. Vestibulum dictum mauris vel nibh varius feugiat.</p>
-    </section>
-    <section id="contact">
+
+    <section id="contact text-center">
         <h1>Contact</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet ultrices risus.
-         Nam odio metus, euismod ac semper non, maximus vel metus. Donec eu velit in velit hendrerit mollis.
-          Vivamus tincidunt quam ut tellus fringilla, quis ultrices quam faucibus. Fusce hendrerit orci a tellus 
-          sollicitudin, vel rhoncus mauris blandit. Fusce non tortor nisi. Vestibulum ultricies scelerisque orci, 
-          et congue augue feugiat in. Vestibulum dictum mauris vel nibh varius feugiat.</p>
+       <!--Contact form. Bootstrap 4 used for help with the code for this section:-->
+      <section class="container-fluid">
+         <div class="row bg-color-contact">
+            <div class="col">
+               <h3 class="contact-heading uppercase text-center">Any questions?</h3>
+               <h5 class="uppercase text-center">Get in touch!</h5>
+               <div class="center-form">
+                  <form action="https://formdump.codeinstitute.net/" method="POST" enctype="text/plain">
+                     <input type="text" name="name" id="fullname" class="form-control" placeholder="Name" required /><br>
+                     <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required /><br>
+                     <textarea rows="5" name="summary" id="summary" class="form-control" placeholder="The message you want to send, goes here!" required></textarea>
+                     <br>
+                     <div class="form-row text-center">
+                        <div class="col">
+                           <button type="submit" class="btn btn-secondary">Send</button>
+                        </div>
+                     </div>
+                  </form>
+               </div>
+            </div>
+         </div>
+      </section>
+      <footer>
+         <div class="container footer-social">
+            <div class="row no-gutters text-center">
+               <div class="col">
+                  <ul class="social-networks">
+                     <li><a href="https://uk.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                     <li><a href="https://github.com/" target="_blank"><i class="fa fa-github"></i></a></li>
+                  </ul>
+                  <p>&copy; Hawa Kitimana</p>
+               </div>
+            </div>
+         </div>
+      </footer>
     </section>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
