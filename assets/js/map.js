@@ -15,7 +15,7 @@ let markersOnMap = [{
 },
 {
     placeName: "Kilimanaro",
-    text: "The top attractions to visit in Kilimanjaro Region are: Monkey Adventures, visit kikuletwa hot springs & Kilimanjaro Climbing",
+    text: "Kilimanjaro is famous for it's landmark that is also Africa's tallest peak.Mount Kilimanjaro, at around 6,000m towers over the plains of Eastern Africa and is one of the most iconic volcanoes in the world.",
     LatLng: [{
         lat: 3.0674,
         lng: 37.3556
@@ -23,7 +23,7 @@ let markersOnMap = [{
 },
 {
     placeName: "Zanzibar",
-    text: "Wander the Maze of Stone Town. Watch Acrobatics and Capoeira on the Beach. Buy Spices and Fabrics at Darajani Market. Eat at a Zanzibar Pizza at Forodhani Gardens. Take a Walking Tour of Stone Town. Learn About the Slave Trade. Go For Sundowners at the Africa House Hotel.",
+    text: "anzibar is famous for its spices. Second only to tourism, spice farming forms a major part of Zanzibar's economy. The islands are sometimes referred to as the Spice Islands, due to the cloves, nutmeg, cinnamon, and black pepper that are grown there",
     LatLng: [{
         lat: 6.1357,
         lng: 39.3621
