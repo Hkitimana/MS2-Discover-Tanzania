@@ -1,6 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Hkitimana/MS2-Discover-Tanzania)
-
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Travel Website - Discover Tanzania
 
 Welcome Hkitimana,
 
