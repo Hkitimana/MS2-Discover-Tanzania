@@ -78,6 +78,28 @@ header {
     padding-bottom: 2px;
 }
 
+.img-wrap .effect{
+    position: relative;
+    margin-bottom: 0;
+    display: block;
+}
+.img-wrap .effect:after{
+    z-index:-1;
+    content:"";
+    position: absolute;
+    top:10px;
+    right:10px;
+    bottom:10px;
+    left:10px;
+    background: #011525;
+    transition: .3s all ease-in-out;
+}
+.img-wrap:hover .effect:after{
+    right:-10px;
+    bottom:-10px;
+    position: absolute;
+}
+
 .btn-dark{
     color:#fff!important;
     margin-right:5px;
@@ -195,13 +217,13 @@ header {
 }
 
 .bg-color-contact {
-    background-color: #b49367;
+    background-color: #ddc9ae;
 }
 
 /*----------footer----------*/
 
 footer {
-    background-color: #b4660c;
+    background-color: #381e01;
     color: #ffffff;
     margin-top: 20px;
 }
@@ -222,7 +244,7 @@ footer {
 .social-networks i {
     font-size: 170%;
     padding: 0.5%;
-    color: #ffffff;
+    color: #000000;
 }
 
 .social-networks i:hover {
