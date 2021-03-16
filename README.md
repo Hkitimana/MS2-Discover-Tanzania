@@ -69,7 +69,13 @@ I have used Google Maps API key to create map on the attraction page.
 
 ## Testing
 
-I have created a separate file for testing [Here]()
+- I have used W3C Markup Validator and W3C CSS Validator Services to validate my pages on the project (index.html page and 1 css page) in order to ensure that there were no syntax errors in the project (e.g. the code was fully accurate and correctly structured throughout).
+
+-[index.html test pass]()
+-[CSS test pass]()
+-[map-js test]()
+-[index-js test]()
+
 
 ### Browsers Tested
 
