@@ -1,5 +1,5 @@
 function sendMail(contactForm) {
-    emailjs.send("service_xh06r2y", "visitjapan", {
+    emailjs.send("service_xh06r2y", "discovertanzania", {
         "from_name": contactForm.inputName.value,
         "to_email": contactForm.inputEmail4.value,
         "information_request": contactForm.inputQuery.value
