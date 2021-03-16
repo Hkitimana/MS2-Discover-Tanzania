@@ -104,7 +104,7 @@ To deploy the project using Github Pages  I used the process below:
 5. Selected Master from the Branch dropdown menu under Source and clicked Save.
 6. After a few minutes the link for the published page appeared.
 
-[Here is the link to my published page]()
+[Here is the link to my published page](https://hkitimana.github.io/MS2-Discover-Tanzania/)
 
 ## Credit
 
