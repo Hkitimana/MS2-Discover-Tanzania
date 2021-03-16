@@ -71,10 +71,10 @@ I have used Google Maps API key to create map on the attraction page.
 
 - I have used W3C Markup Validator and W3C CSS Validator Services to validate my pages on the project (index.html page and 1 css page) in order to ensure that there were no syntax errors in the project (e.g. the code was fully accurate and correctly structured throughout).
 
--[index.html test pass]()
--[CSS test pass]()
--[map-js test]()
--[index-js test]()
+-[index.html test pass](https://github.com/Hkitimana/MS2-Discover-Tanzania/blob/Hkitimana/gitpod-setup/assets/images/html-validator.png)
+-[CSS test pass](https://github.com/Hkitimana/MS2-Discover-Tanzania/blob/Hkitimana/gitpod-setup/assets/images/css-validator.png)
+-[map-js test](https://github.com/Hkitimana/MS2-Discover-Tanzania/blob/Hkitimana/gitpod-setup/assets/images/map-js.png)
+-[index-js test](https://github.com/Hkitimana/MS2-Discover-Tanzania/blob/Hkitimana/gitpod-setup/assets/images/index-js.png)
 
 
 ### Browsers Tested
