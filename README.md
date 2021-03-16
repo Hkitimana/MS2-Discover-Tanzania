@@ -1,6 +1,6 @@
 # Travel Website - Discover Tanzania Milestone Project 2
 
-[View my live website here] (https://hkitimana.github.io/MS2-Discover-Tanzania/)
+[View my live website here](https://hkitimana.github.io/MS2-Discover-Tanzania/)
 
 I have developed this project aimed to showcase a few tourists attractions available in Tanzania in order to encourage people to visit and explore Tanzania. 
 The website has 3 pages; Landing/home page, About page, Attraction page and Contact page. The main goal for these pages is to give people a brief summary of Tanzania and what
@@ -11,7 +11,7 @@ and find required information.
 
 Preview of Final website on different devices 
 
-![I am responsive photos] ()
+![I am responsive photos](assets/images/website-mockup.png)
 
 ## User Experience
 
