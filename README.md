@@ -1,45 +1,40 @@
-# Travel Website - Discover Tanzania
+# Travel Website - Discover Tanzania Milestone Project 2
 
-Welcome Hkitimana,
+[View my live website here] ()
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+I have developed this project aimed to showcase a few tourists attractions available in Tanzania in order to encourage people to visit and explore Tanzania. 
+The website has 3 pages; Landing/home page, About page, Attraction page and Contact page. The main goal for these pages is to give people a brief summary of Tanzania and what
+the country has to offer, which includes the beautiful national parks, mountain Kilimanjaro and the beautiful Island of Zanzibar amongest many. 
 
-## Gitpod Reminders
+The website has been designed to be fully responsive and accessible on different devices i.e. (mobile, desktop and tablet), In order to allow easy navigation for people visiting the website 
+and find required information. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Preview of Final website on different devices 
 
-`python3 -m http.server`
+![I am responsive photos] ()
 
-A blue button should appear to click: *Make Public*,
+## User Experience
 
-Another blue button should appear to click: *Open Browser*.
+### User Stories
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### New Visitor Goals
 
-A blue button should appear to click: *Make Public*,
+1. As a new visitor I want to be able easily understand what the website is for.
+2. As a new visitor I want to be able to easly navigate through the website and find all the key information from the website.
+3. As a new visitor I want to have a little undertanding of Tanzania, history, culture and tourism.
+4. As a new visitor I want to be to use the contact form to request for any further information  might need. 
 
-Another blue button should appear to click: *Open Browser*.
+## wireframes
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- The wireframes and mockups were created using Balsamiq wireframes. The Layout of the page is a little bit different from the 
+original wireframes. For example I have added the Map on the Attractions page and removed Information for Tourists page, insteated added About page
+which intells History, Culture and Nature in Tanzania.
 
-## Updates Since The Instructional Video
+[Wireframes]()
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## Features
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+- The website is responsive on different devices of different sizes, I have tested it using chrome dev tools and of different devices i.e (Iphone Xs, iPad and desktop)
+- I have used Bootstrap buttons to make the website a little bit interactive with external links to read more about different sections , as well as using Google Map utilising API a form with modal using Bootstrap
+- The full website is fluid to allow easy accessibility. The Landing page has a big Hero image to cover the whole page and Overview text detailing the website. There is also a Good Map with Markers on the attractions 
+page with a little bit of extra information about the locations. 
