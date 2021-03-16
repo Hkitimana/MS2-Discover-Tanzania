@@ -55,7 +55,6 @@ header {
 
 .heading-section h2{
     text-transform: capitalize;
-    position: center;
     font-weight: bold;
 }
 
@@ -107,11 +106,6 @@ header {
 
 /*-------Attractions Section ---------*/
 
-.heading-section h1 {
-    margin-top: 100;
-    
-}
-
 .serengeti-info {
   height: 400px;
   background-image: url("../images/serengeti.jpg");
@@ -127,7 +121,7 @@ header {
 }
 
 .zanzibar-info {
-  height: of 400px;
+  height: 400px;
   background-image: url("../images/zanzibar.jpg");
   margin-top: 90px;
   margin-left: 0px;
@@ -173,7 +167,7 @@ header {
 div#map {
     min-height: 360px;
     min-width: 360px;
-    height: 700px;
+    height: 600px;
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -205,19 +199,19 @@ div#map {
 }
 
 .bg-color-contact {
-    background-color: #ddc9ae;
+    background-color: #e6dccf;
 }
 
 /*----------footer----------*/
 
 footer {
-    background-color: #381e01;
+    background-color: #3a2002;
     color: #ffffff;
     margin-top: 20px;
 }
 
 .footer-social {
-    border-top: 1px solid #050301;
+    border-top: 1px solid #dbaa79;
     padding:18px 0;
 }
 
