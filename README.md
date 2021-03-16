@@ -11,7 +11,7 @@ and find required information.
 
 Preview of Final website on different devices 
 
-![I am responsive photos](assets/images/website-mockup.png)
+![I am responsive photos](https://github.com/Hkitimana/MS2-Discover-Tanzania/blob/Hkitimana/gitpod-setup/assets/images/website-mockup.png)
 
 ## User Experience
 
@@ -30,7 +30,7 @@ Preview of Final website on different devices
 original wireframes. For example I have added the Map on the Attractions page and removed Information for Tourists page, insteated added About page
 which intells History, Culture and Nature in Tanzania.
 
-[Wireframes]()
+[Wireframes](https://github.com/Hkitimana/MS2-Discover-Tanzania/blob/Hkitimana/gitpod-setup/assets/images/wireframes.pdf)
 
 ## Features
 
