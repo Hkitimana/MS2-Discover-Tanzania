@@ -133,6 +133,12 @@ The images used in this project have all been sourced from the internet by googl
 
 The Map on Attractions page was created using Google Maps utilising API Key.
 
+### Acknowledgements
+
+- I got inspiration for this project from the watching different youtube video on how incorporate Javascript on a simple travel website that does not travel agency website.
+- I would also like to thank tutor support for the help provided throughout creation of this project.
+- Lastly I would like to tank family and friends who helped by providing feedback from testing the website. 
+
 
 
 
