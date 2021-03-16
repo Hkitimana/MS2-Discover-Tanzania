@@ -9,7 +9,7 @@ let markersOnMap = [{
     placeName: "Serengeti",
     text: "The Serengeti is famed for its annual wildebeest migration, when some 8 million hooves cross the open plains, as more than 1,500,000 wildebeest, 200,000 zebra and 300,000 Thomson's gazelle join the trek for fresh grazing.",
     LatLng: [{
-        lat: 1.8936,
+        lat: 6.3728,
         lng: 34.6857
     }]
 },

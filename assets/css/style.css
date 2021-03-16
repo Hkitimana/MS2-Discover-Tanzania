@@ -55,22 +55,7 @@ header {
 
 .heading-section h2{
     text-transform: capitalize;
-    position: center;
     font-weight: bold;
-}
-
-.welcome hr{
-    border-top: 2px solid rgb(139, 70, 4);
-    width: 100%;
-    margin-top: 7px;
-    margin-bottom: 4px;           
-}
-
-.more {
-    border-bottom: 2px solid rgb(139, 70, 4);
-    width: 100%;
-    margin-top: 7px;
-    margin-bottom: 4px;
 }
 
 .fonticon {
@@ -121,18 +106,12 @@ header {
 
 /*-------Attractions Section ---------*/
 
-.attractions {
-    text-transform: capitalize;
-    position: center;
-    font-weight: bold;
-}
-
 .serengeti-info {
-  height: 200px;
+  height: 400px;
   background-image: url("../images/serengeti.jpg");
   margin-top: 90px;
   margin-left: 0px;
-  margin-right: 30px;
+  margin-right: 50px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -142,11 +121,11 @@ header {
 }
 
 .zanzibar-info {
-  height: of 200px;
-  background-image: url("../images/serengeti.jpg");
+  height: 400px;
+  background-image: url("../images/zanzibar.jpg");
   margin-top: 90px;
   margin-left: 0px;
-  margin-right: 30px;
+  margin-right: 50px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -156,11 +135,11 @@ header {
 }
 
 .kilimanjaro-info {
-  height: 200px;
-  background-image: url("../images/serengeti.jpg");
+  height: 400px;
+  background-image: url("../images/kilimanjaro.jpg");
   margin-top: 90px;
   margin-left: 0px;
-  margin-right: 30px;
+  margin-right: 50px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -180,7 +159,7 @@ header {
 }
 
 .nametag:hover {
-    color: #a7752c; 
+    color: #442c08; 
 }
 
 /*---------- Map Section ---------*/
@@ -188,7 +167,7 @@ header {
 div#map {
     min-height: 360px;
     min-width: 360px;
-    height: 700px;
+    height: 600px;
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -220,19 +199,19 @@ div#map {
 }
 
 .bg-color-contact {
-    background-color: #ddc9ae;
+    background-color: #e6dccf;
 }
 
 /*----------footer----------*/
 
 footer {
-    background-color: #381e01;
+    background-color: #3a2002;
     color: #ffffff;
     margin-top: 20px;
 }
 
 .footer-social {
-    border-top: 1px solid #050301;
+    border-top: 1px solid #dbaa79;
     padding:18px 0;
 }
 
